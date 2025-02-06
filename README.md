@@ -27,3 +27,6 @@ MovieFlix is a web-based application(Project) that allows users to browse, searc
 3. **Run the Application**
    - Start Apache and MySQL in your local server.
    - Open `http://localhost/MovieFlix/x.php` in your browser.
+
+## Folders Not included
+- ** profile_img, img, video folders are not included so add those folders inside movieflix directory **
